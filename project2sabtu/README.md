@@ -1,4 +1,4 @@
-​#​ ​CRUD-MVC-Native 
+​#​ ​CRUD-MVC-Native <br>
  ​<b>Merisa Adha Azzahra & Haura Fathinah</b><br/> 
  ​<b>2111089010 & 2111089006</b><br/> 
  ​3 Tabel (jenis, supplier, barang) <br/> 
